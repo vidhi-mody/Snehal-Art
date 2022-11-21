@@ -1,5 +1,5 @@
-# SNEHAL DIPAK THAKUR -Portfolio
+# SNEHAL DIPAK THAKUR ART
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/38ba8839-0499-435f-a9e9-9a9c0a7cd607/deploy-status)](https://app.netlify.com/sites/sejalsanghvi/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9940c2cc-f2bf-4f37-86c4-a0a9a02e4113/deploy-status)](https://app.netlify.com/sites/snehal-art/deploys)
 
-View it [here](https://sage-saga.netlify.app/).
+View it [here](https://snehal-art.netlify.app/).
